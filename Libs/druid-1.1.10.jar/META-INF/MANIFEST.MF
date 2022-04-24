@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: druid
+Implementation-Version: 1.1.10
+Archiver-Version: Plexus Archiver
+Built-By: wenshao
+Implementation-Build: 2018-05-27 17:08:32
+Implementation-Vendor-Id: com.alibaba
+Created-By: Apache Maven 3.5.0
+Build-Jdk: 1.8.0_162
+Implementation-Vendor: Alibaba Group
+
